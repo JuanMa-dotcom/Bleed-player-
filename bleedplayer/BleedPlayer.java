@@ -9,6 +9,8 @@ import com.mycompany.bleedplayer.audio.*;
  *
  * @author jv134
  */
+
+//La vida es mejor escuchando bleed
 public class BleedPlayer {
 
     public static void main(String[] args) {
@@ -20,7 +22,7 @@ public class BleedPlayer {
             "Meshuggah",
             "Metal",
             "7:22",
-            "C:\\Users\\jv134\\OneDrive\\Escritorio\\yt-dlp\\Bleed- Meshuggah.mp3"
+            "Agrega tu direccion de la cancion aqui (puede ser cualquiera pero en formato mp3)"
 
         );
 
